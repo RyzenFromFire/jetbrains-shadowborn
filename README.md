@@ -4,5 +4,5 @@ Personal theme for JetBrains IDEs (IntelliJ IDEA, PyCharm, etc.) with a *Solo Le
 Adapted from my [VSCode Shadowborn Theme](https://github.com/RyzenFromFire/vscode-shadowborn), created with the help of [mswift42's Theme Creator](https://github.com/mswift42/themecreator).
 
 ## Usage
-- Install JetBrains' Dark Purple Theme (or other dark black/purple theme).
+- Install Gerry's Themes and use "Gerry Violet" (or use any other dark black/purple theme of your choice).
 - Override the theme's Editor Color Scheme with Shadowborn's by importing the `.icls` file from this repository.

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<scheme name="Shadowborn2" version="142" parent_scheme="Default">
+<scheme name="Shadowborn" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="13" />
-  <option name="EDITOR_FONT_NAME" value="Source Code Pro 13" />
+  <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="#ababab" />
     <option name="ANNOTATIONS_COLOR" value="#ababab" />
@@ -26,8 +26,8 @@
     <option name="RIGHT_MARGIN_COLOR" value="#31323d" />
     <option name="SELECTED_INDENT_GUIDE" value="#bcbcbc" />
     <option name="SELECTED_TEARLINE_COLOR" value="#cc95f8" />
-    <option name="SELECTION_BACKGROUND" value="#000000" />
-    <option name="SELECTION_FOREGROUND" value="#cc95f8" />
+    <option name="SELECTION_BACKGROUND" value="#b98bf735" />
+    <option name="SELECTION_FOREGROUND" value="" />
     <option name="SEPARATOR_BELOW_COLOR" value="#31323d"/>
     <option name="SEPARATOR_ABOVE_COLOR" value="#31323d"/>
     <option name="TEARLINE_COLOR" value="#bcbcbc" />
