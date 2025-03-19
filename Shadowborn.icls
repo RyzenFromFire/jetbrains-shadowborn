@@ -2484,6 +2484,21 @@
         <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
+    <option name="PY.BUILTIN_NAME">
+      <value>
+        <option name="FOREGROUND" value="df6296" />
+      </value>
+    </option>
+    <option name="PY.KEYWORD_ARGUMENT">
+      <value>
+        <option name="FOREGROUND" value="798283" />
+      </value>
+    </option>
+    <option name="PY.STRING.B">
+      <value>
+        <option name="FOREGROUND" value="939d6c" />
+      </value>
+    </option>
     <option name="PYBUILTIN_NAME">
       <value>
         <option name="FOREGROUND" value="#afaba7" />
