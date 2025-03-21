@@ -1334,9 +1334,27 @@
         <option name="BACKGROUND" value="#31323d" />
       </value>
     </option>
+    <option name="INLAY_DEFAULT">
+      <value>
+        <option name="FOREGROUND" value="7a7a7a" />
+        <option name="BACKGROUND" value="" />
+      </value>
+    </option>
     <option name="INLINE_PARAMETER_HINT">
       <value>
         <option name="FOREGROUND" value="#d19a66" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT_CURRENT">
+      <value>
+        <option name="FOREGROUND" value="#b8cdd7" />
+        <option name="BACKGROUND" value="#6e7b81" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
+      <value>
+        <option name="FOREGROUND" value="#cccccc" />
+        <option name="BACKGROUND" value="#5b5b5b" />
       </value>
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
